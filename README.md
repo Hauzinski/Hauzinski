@@ -1,5 +1,5 @@
 # Front-end developer
-Hello 👋. My name is Vitaly and I am a beginner front-end developer from Belarus.
+Hello 👋. My name is Vitaly and I am a beginner front-end developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hauzinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
