@@ -1,8 +1,6 @@
 # Front-end developer
 Hello 👋. My name is Vitaly and I am a front-end developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hauzinski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![CodeWars](https://www.codewars.com/users/Hauzinski/badges/large)
 ](https://www.codewars.com/users/Hauzinski)
 
