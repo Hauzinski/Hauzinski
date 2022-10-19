@@ -1,5 +1,5 @@
-# Frontend developer
-Hello 👋. My name is Vitaly and I am a frontend developer.
+# Front-end developer
+Hello 👋. My name is Vitaly and I am a front-end developer.
 
 [![CodeWars](https://www.codewars.com/users/Hauzinski/badges/large)
 ](https://www.codewars.com/users/Hauzinski)
