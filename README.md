@@ -18,7 +18,7 @@ Hello 👋. My name is Vitaly and I am a front-end developer.
 [![Angular projects](https://img.shields.io/badge/Angular_projects-red?style=flat&logo=angular&logoColor=red&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects/tree/Angular-projects)
 [![TypeScript projects](https://img.shields.io/badge/TypeScript_projects-blue?style=flat&logo=typescript&logoColor=blue&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects/tree/TypeScript-projects)
 [![JavaScript projects](https://img.shields.io/badge/JavaScript_projects-yellow?style=flat&logo=javascript&logoColor=yellow&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects/tree/JavaScript-projects)
-## My team collaboration projects
+## My joint projects
 [![Kanban Task Manager](https://img.shields.io/badge/Kanban_task_manager-00BFFF?style=flat&logo=react&logoColor=00BFFF&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects/tree/React-projects/Project-management-app)
 [![RS Lang](https://img.shields.io/badge/RS_Lang-blue?style=flat&logo=typescript&logoColor=blue&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects/tree/TypeScript-projects/RS-Lang)
 ## Contacts
