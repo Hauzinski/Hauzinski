@@ -10,6 +10,7 @@ Hello 👋. My name is Vitaly and I am a front-end developer.
 ## My certificates
 - [The Rollin Scopes School JS/FE Pre-School(JavaScript)](https://github.com/Hauzinski/Certificates/blob/master/JS.FE%20Pre-School.pdf)
 - [The Rollin Scopes School JAVASCRIPT/FRONT-END 2021Q3(JavaScript)](https://github.com/Hauzinski/Certificates/blob/master/JS.FE.pdf)
+- [The Rollin Scopes School REACT 2022Q3](https://github.com/Hauzinski/Certificates/blob/master/JS.React.pdf)
 
 ## My projects
 [![My projects](https://img.shields.io/badge/My_projects-black?style=flat&logo=github&logoColor=black&labelColor=F3F3F3)](https://github.com/Hauzinski/My-projects)
